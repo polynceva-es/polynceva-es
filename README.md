@@ -13,3 +13,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=polynceva-es)](https://github.com/polynceva-es/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=polynceva-es)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polynceva-es&layout=compact)](https://github.com/polynceva-es/github-readme-stats)
