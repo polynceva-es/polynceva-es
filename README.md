@@ -9,9 +9,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=polynceva-es)](https://github.com/polynceva-es/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polynceva-es&layout=compact)](https://github.com/polynceva-es/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/polynceva-es/badges/large)](https://www.codewars.com/users/polynceva-es) 
