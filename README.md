@@ -10,4 +10,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=polynceva-es)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=polynceva-es)](https://github.com/polynceva-es/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=polynceva-es)](https://git.io/streak-stats)
