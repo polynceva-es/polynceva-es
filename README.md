@@ -11,6 +11,6 @@
 [![codewars](https://www.codewars.com/users/polynceva-es/badges/small)](https://www.codewars.com/users/polynceva-es)
 
 <h3> Связаться со мной </h3>
-email: polynceva.es@gmail.com
+<div><img align="center" src="https://cdn-icons-png.flaticon.com/128/4767/4767983.png" width="50px" height="50px"> polynceva.es@gmail.com</div>
 
-telegram: @polynceva_ekaterina
+<div><img align="center" src="https://cdn-icons-png.flaticon.com/128/4767/4767993.png" width="50px" height="50px"> @polynceva_ekaterina</div>
